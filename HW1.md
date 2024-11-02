@@ -16,4 +16,5 @@
  11. Обновить страницу
  12. Перевести в ландшафтные режим.
  13. Выключить Device Mode
-[1 часть (1-13](https://drive.google.com/file/d/13pxsPPQ3nK4nPRYC7pW6KB6BUrUnBSz1/view?usp=sharing)
+     
+[Видео 1 часть: задания 1-13](https://drive.google.com/file/d/13pxsPPQ3nK4nPRYC7pW6KB6BUrUnBSz1/view?usp=sharing)
