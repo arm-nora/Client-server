@@ -36,3 +36,16 @@
  28. Развернуть все уровни вложенности JSON.
 
  [Видео 2 часть: задания 14-28](https://drive.google.com/file/d/1IWV9jyPAYFnn8b7d3Z2mxCQa-9q-PWRq/view?usp=sharing)
+
+
+ 29. Открыть вкладку Application.
+ 30. Развернуть все Storage в левом столбце.
+ 31. Зайти в Cache Storage и Application Cache
+ 32. Там везде будет пусто.
+ 33. Открыть любой сайт который хотите. (Введите урл сайта в адресную строку и нажмите Enter)
+ 34. Откройте вкладку LightHouse
+ 35. Нажмите Generate report
+ 36. Установить в браузер бесплатный AdBlocker
+ 37. Установить в браузер Json Viewer
+
+[Видео 3 часть: задания 29-37](https://drive.google.com/file/d/17HmQhKM9CjLeGIpHv98PmrobHyU8oIFO/view?usp=sharing)
