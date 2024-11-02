@@ -49,3 +49,12 @@
  37. Установить в браузер Json Viewer
 
 [Видео 3 часть: задания 29-37](https://drive.google.com/file/d/17HmQhKM9CjLeGIpHv98PmrobHyU8oIFO/view?usp=sharing)
+
+
+ 38. Зайти на сайт https://ksendzov.com (https://ksendzov.com/)
+ 39. Сделать и сохранить скриншот видимой части страницы сайта.
+ 40. Сделать и сохранить скриншот всего сайта.
+ 41. Изменить локацию GPS. Продемонстрировать на сайте Гугл карт.
+ 42. Изменить локацию GPS второй раз. Продемонстрировать на сайте Гугл карт.
+
+[Видео 4 часть: задания 38-42](https://drive.google.com/file/d/1XLNI9Zw6JmTI6f40PS3AA_iBxjhdgzfh/view?usp=sharing)
